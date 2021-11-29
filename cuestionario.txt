@@ -3,16 +3,17 @@ Jorge Lazo Ponce y Pablo Benítez Anaya 12#2
 1. En tus palabras, ¿Qué es internet?
 R. Internet es en donde puedes encontrar toda la información del mundo.
 2. Describe los medios físicos y de propagación de ondas por los que se transmite la información en internet.
-R. 
+R. Los medios de transmisión son las vías por las cuales se comunican los datos. Dependiendo de la forma de conducir la señal a través del medio o soporte físico, se pueden clasificar en dos grandes grupos: medios de transmisión guiados o alámbricos. medios de transmisión no guiados o inalámbricos.
 3. ¿Cómo se organiza internet? Habla de las direcciones IP y los DNS.
 R. Es una gran linea de computadoras conectadas entre si en donde todas se comparten informacion mutuamente
 4. Describe el procedimiento por el cual una canción de Spotify llega del servidor de la compañía a tu celular.
-R. 
+R. Al reproducir alguna canción de Spotify, la estás reproduciendo directamente desde los servidores de Spotify.
 5. Describe los protocolos que existen en internet, en específico HTTP y HTML
 R. HTTP es un protocolo el cual nos permite realizar una petición de datos y recursos
 6. En dos párrafos cuéntanos lo que aprendiste sobre encriptación y llaves públicas.
-R. 
+R. La encriptación es básicamente un "candado" que le pones a tus datos en línea para protegerlos.
+La "llave" como su nombre lo indica, sirve para abrir éste "candado".
 7. En dos párrafos cuéntanos lo que aprendiste sobre cómo protegerte de los criminales en internet.
 R. Para protegerse en internet, es necesario utilizar contraseñas fuertes y no compartir datos confidenciales.
 8. ¿Cómo funciona la búsqueda de google?
-R. 
+R. "Una vez que descubrimos la URL de una página, la visitamos (rastreamos) para averiguar qué contiene. Renderizamos la página y analizamos el contenido textual y no textual, además del diseño visual general, para decidir cómo mostrarla en los resultados de la Búsqueda." (Google)
